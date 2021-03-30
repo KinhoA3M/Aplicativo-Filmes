@@ -1,0 +1,6 @@
+framework module Pods_Aplicativo_FIlmes {
+  umbrella header "Pods-Aplicativo_FIlmes-umbrella.h"
+
+  export *
+  module * { export * }
+}
